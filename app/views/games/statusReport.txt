@@ -1,0 +1,183 @@
+Here is the latest status report.  There is a Exec Level Status report on top of the email that summarizes the details below.  Any questions write to me.
+
+Highlights  
+Work started to bring completed tablet vid visit to ITS/SNAP
+Transition Plan for Station to Tablet Vid Visit Started with Arehart
+Left side menu rolled out to SF, ASRs, FSRs, and now Shield Team
+Monitoring for Tablet Vid Visit in TCC: Mid July: No clear ETA on pic changing on wall
+Submissions Report & Re-categorization Griev/Request: Will be in Production Mid July
+Major speed issue in Griev/Req Fixed by Prod Support
+
+High Level Status Report
+
+Feature/Project             Sprint/Date Notes/Jira                  
+New Navigation to all Customers ITS/SNAP    Mid July    Out to SF, ASR, FS, Shield now, may push out to End July
+
+Cook GAP Assessment           July 5
+Monitoring for Tablet Vid Visit in TCC      Mid July    No Pic Changing on wall however
+Monitoring for Tablet Vid Visit in ITS      End July    No Pic Changing on wall however 
+
+Use Tablets for Vid Visit SNAP Customers    End July
+Use Tablets for Vid Visit ITS Customers     End August  
+
+Lewis/ODOC Protected Audio/Max Override   No ETA/Need Resources
+
+———
+
+Detailed Status Report
+
+Sprint 110 = End June
+Sprint 111 = Mid July
+Sprint 112 = End July
+
+Feature/Project             Sprint/Notes                
+
+FCC Changes
+  Override limit deposit Solution     Done
+  Complete Solution             No ETA/Need Resources to Develop        
+
+Unified Login
+  Create Landing page, FAQ        Done
+  Send emails to FF           Email created but not sent
+  Email to CSR about landing page     Irschick will send out.
+  Create Dismissible Page         Done
+  Status Page on top of getting out     In Progress
+
+Unification / Menu
+  Common Header/Footer          ~Mid July End June Select Customers. 
+  Global Nav ITS/SNAP w/search      ~Mid July End June Select Customers.  
+  Icons for Partners            111
+  New survey              ~End July 
+  Show/Hide menu            ~112 / Needed for low resolution monitors
+  ACL for Elimination of upper menu     ~112  
+  Reuse of upper menu         ~112/113        
+
+Cook Country
+  Gap Assessment            July 5
+  Interject pre-recorded announcements    TBD / ITS-SF-6
+  CVB                 TBD / ITS-VB-7
+  Store relationship of FF to Inmate      TBD / ITS-PPF-11, VVSA-31
+  Color Printing of Messages and Photos   TBD
+  Grp messaging from staff to inmates   TBD / VVSA-10
+  …
+
+Mobius
+  TCC (Tablet only customers)
+  
+  Tablet Video Visit Monitoring           
+    List to Grid switcher Activity Search 111 
+    Monitoring as a separate Page   111 
+    Multi check room filters        111 
+    Update Pics on interval       No Clear ETA! 
+    
+  Tab Video Visit for SNAP customers
+    Search Tab Vid Visit ITS        111-112/End July      
+    Monitoring in ITS         111-112/End July
+    Update Pics on interval       No Clear ETA! 
+        
+  Video Visit for ITS Only customers    ~113-114 End August / Pushed from Mid July due to Unified Login, FCC
+    Device search
+    Contact blocking in ITS
+    Tablet Permissions in ITS
+    Photos/Messages search available in ITS
+  
+  Features in TCC (bring to ITS)
+    Full Activity Search in ITS     ~ End August / Pushed from Mid July due to Unified Login, FCC 
+    Facility Timeline in ITS        TBD     
+    FF/ Inmate Timeline in ITS      TBD
+    TCC Activity Alarms       TBD
+
+Features in TCC 
+  Export from TCC         
+    Msg/Photos/Dep        
+    - From Timeline
+    - From Activity Search        Design complete, need resources to develop
+    Calls/VM/Tab Vid Visit
+    - From Timeline
+    - From Activity Search
+
+  ACL Improvements
+    Template Role Matrix    ~112 / 10 pearls (No completion ETA yet)
+    User Matrix Fix     ~112 / 10 pearls (No completion ETA yet)
+  Deposit Searches        ~111&112 / 10 pearls
+  Calls
+    Searches          ~111&112 / 10 pearls
+    Live Call Data        TBD
+    Monitoring        TBD       
+  Station Vid Visit               
+    Transition Plan with Arehart  In Progress (VIP Project)
+    Add Data?       TBD
+    Add Filters?        TBD
+    Add Monitoring?     TBD
+  Tab Vid Visit
+    Add to imelines     TBD
+  TCC  Activity Alarms 
+    Improve alarm notification L&F
+    QA Call, Vid Visit Alarm triggering   TBD                 
+    More notification options       TBD / Text, call, call with pin
+    Station vid visit alarm     TBD / Needed Sept?  Take to Jeff F.
+    Call Tree (Pin)           TBD 
+  Specific Inmate/Specific FF activities    ~Q2-Q3 / Reuse activity search capability
+  Single Inmate Page            TBD  / Currently 3 pages
+  Single Visitor Page           TBD / Currently 3 pages
+  Common Note Taking Capability     TBD / Build In TCC expose to ITS/SNAP?
+  Show suspended,flagged on any Inmate/FF TBD / Hover Tip state?
+  Automatic Image Recognition, biz case   TBD / Present to PC with Don
+  Investigator Tree TCC         TBD on hold 
+
+Other
+  Internationalization ITS/SNAP     ~Q4 / work with 10 Pearls?
+ITS 
+  Override Limit on Max for Bailbonds/Direct Billing TBD/Need Resources!!
+  Lewis Call Purging            ~No ETA Need Resources (In-1736)
+  ODOC protected call audio       ~No ETA Nee Resources
+  Intercom integration in ITS       IN QA NOW
+
+SNAP
+  Submissions Report for G/R          111/ Pushed from 110 due to issues
+  Recategorization for G/R          111/ Pushed from 110 due to issues
+  Filter Inmate status (rel/active) G/R     111
+  Improved forward email G/R          111
+  Deadline passed email G/R         111
+  Evaluate Message Broadcast/eDoc     111
+  Standardize Modals            111
+  User Filter G/R             TBD
+  Turn on/off questions based on prev. Qs   ~TBD ODOC facility request / via Kelly 
+  Intercom integration in SNAP          ~TBD
+  Curtail Appeals             ~Being Evaluated
+  Attachments               ~TBD
+
+Completed Feature/Project         Status/Notes        
+Kalamazoo IVR             Done for 2 items, missing ability to hide un-arraigned 
+Speed Issue in G/R              Done/111  by Tenn on prod support 
+New Navigation ITS/SNAP         Done/109 Out to SF/IT/ASR/FSR
+CSR max deposit amount          Done/110
+IVR max deposit prepaid credit card     Done/110
+Tag Filter                  Done/110
+Improved Export Feature G/R         Done/110
+Add Countdown in days G/R         Done/110
+Assign Tags               Done/109
+Improved Look and Feel Griev/Rq       Done/109
+Limit Requests              Done/108      
+Specific name email forwarding (griev/req)    Done/108    
+Location/room in griev/req emails/reports   Done/108      
+Set Disposition Label: Grievances       Done/108    
+Fixed printing bug griev/request        Done/108    
+Permissions at higher level grievances      Done/107    
+Standardization look and feel         Done/106    
+Search Vid Visit TCC            Done/105  
+Update data sheet grievances        Waiting on Marketing input    
+Data Sheet Grievances             Done/110
+
+______________________________________________
+Michael Irschick / Product Manager
+Telmate
+655 Montgomery Street, 18th Floor
+San Francisco, CA 94111
+Email irschick@telmate.com
+Office  / Mobile (415) 297-5899
+Customer Service (800)205-5510 
+www.Telmate.com | www.GettingOut.com | GettingOut Facebook
+
+
+
